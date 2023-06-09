@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "243076383265",
+    "project_id": "signin-96fba",
+    "storage_bucket": "signin-96fba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243076383265:android:4a80cccec6dc7de9a2d960",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243076383265-282ma8v1ka56i8amtgn8ea4ohqkm1id1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB25MA1pg3c3XZV0apP5crnIISgCvmUq3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243076383265-282ma8v1ka56i8amtgn8ea4ohqkm1id1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/InfraonMobile" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/New Folder With Items/blocFromZeroToHero" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/New Folder With Items/calling_pagenation_rest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/assignment" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/auth" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flutter_constraints" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flutter_mvc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/infinite_list_pagination" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/internet_connectionn_checker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/navigation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pacify" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/practice_getx_cart" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/practice_rest_api_2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rating_bar" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/restful_api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/shopx" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sign_in_google" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ticka" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ticka-dev" vcs="Git" />
+  </component>
+</project>
